@@ -1,6 +1,10 @@
-# Instalando Windows 10
-Esta es mi experiencia instalando Windows 10 en virtual box
-Noviembre 25 de 2022
+# Instalacion Windows 10 para entorno Virtual:
+*Noviembre 25 de 2022*, Ramón Peinado Ruiz
+
+
+
+A continuacion disponemos de una guia para la instalacion de Windows 10 en una entorno virtual concretamente trabajaremos con ***Oracle VM Virtual Box***
+
 
 - **1º PASO:**
 
