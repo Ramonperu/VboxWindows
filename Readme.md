@@ -6,7 +6,7 @@ Noviembre 25 de 2022
 
 ​	-Descargamos la *[herramienta](https://www.microsoft.com/es-es/software-download/windows10)* desde la **pagina oficial**
 
-​	![1ºimagen](/img/1ºimagen.png)
+​	![1ºimagenn](/img/1ºimagenn.png)
 
 -Ejecutamos *MediaCreationTool22h2.exe*
 
