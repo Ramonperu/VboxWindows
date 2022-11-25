@@ -17,3 +17,5 @@ Noviembre 25 de 2022
 
 -Aceptamos Terminos y Condiciones de uso:
 ​	![4ºimagen](/img/4ºimagen.png)
+-Tras realizar preparativos nos muestra estas dos opciones, seleccionamos la ultima opción(Crear medios de instalación):
+​	![5ºimagen](/img/5ºimagen.png)
