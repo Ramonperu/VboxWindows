@@ -2,8 +2,8 @@
 Esta es mi experiencia instalando Windows 10 en virtual box
 Noviembre 25 de 2022
 
-**1º PASO:**
+- **1º PASO:**
 
-Descargamos la [herramienta](https://www.microsoft.com/es-es/software-download/windows10)
+​	Descargamos la *[herramienta](https://www.microsoft.com/es-es/software-download/windows10)* desde la **pagina oficial**
 
-![1ºimagen](/img/1ºimagen.png)
+​	![1ºimagen](/img/1ºimagen.png)
