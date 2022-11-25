@@ -15,3 +15,5 @@ Noviembre 25 de 2022
 -El programa configura ciertos parametros, lo dejamos realizar sus preparativos:
 ​	![3ºimagen](/img/3ºimagen.png)
 
+-Aceptamos Terminos y Condiciones de uso:
+​	![4ºimagen](/img/4ºimagen.png)
