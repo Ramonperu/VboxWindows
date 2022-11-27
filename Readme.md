@@ -75,3 +75,13 @@ En nuestro caso seleccionaremos +150
 -Finalmente se nos mostrara un resumen de todos los datos de nuestra maquina
 
 ​	![14ºimagen](/img/14ºimagen.png)
+
+
+
+-Se nos inciara la maquina y Windows empezara a configurarse:
+
+​	![vm](/img/vm.png)
+
+​	![vm2](/img/vm2.png)
+
+​	![vm3](/img/vm3.png)
