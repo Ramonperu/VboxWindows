@@ -39,3 +39,39 @@ A continuación disponemos de una guía para la instalación de Windows 10 en un
 -Se nos abre el explorador de archivos para guardar la imagen:
 
 ​	![8ºimagen](/img/8ºimagen.png)
+
+
+
+2º PASO(Creación de la maquina virtual):
+
+-Al abrir Virtual Box por primera vez encontraremos el menu principal vacío y clicaremos en Nueva:
+
+​	![9ºimagen](/img/9ºimagen.png)
+
+-A continuacion, se nos pediran los siguientes datos de la maquin :
+Nombre / Carpeta / Imagen en formato ISO
+
+​	![10ºimagen](/img/10ºimagen.png)
+
+La nombraremos Windows 10 y seleccionaremos la imagen anteriormente obtenida
+
+
+-Podremos configurar entonces el usuario y la contraseña de la maquina(Se recomienda cambiar los datos predeterminados):
+
+​	![11ºimagen](/img/11ºimagen.png)
+
+-Configuramos el hardware de nuestra maquina virtual(Se recomienda no subir por encima de la franja naranja):
+
+En mi caso seleccione 8gb de RAM y 5 CPU's.
+
+​	![12ºimagen](/img/12ºimagen.png)
+
+-Seleccionamos espacio virtual:
+
+En nuestro caso seleccionaremos +150
+
+​	![13ºimagen](/img/13ºimagen.png)
+
+-Finalmente se nos mostrara un resumen de todos los datos de nuestra maquina
+
+​	![14ºimagen](/img/14ºimagen.png)
