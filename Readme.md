@@ -23,4 +23,5 @@ A continuación disponemos de una guía para la instalación de Windows 10 en un
 	![4ºimagen](/img/4ºimagen.png)
 
 -Tras realizar preparativos nos muestra estas dos opciones, seleccionamos la ultima opción(Crear medios de instalación):
+
 ​	![5ºimagen](/img/5ºimagen.png)
