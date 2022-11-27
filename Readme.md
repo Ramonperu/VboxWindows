@@ -80,8 +80,7 @@ En nuestro caso seleccionaremos +150
 
 -Windows comenzara la instalación:
 
-​	![15ºimagen](/img/15ºimagen.png)
-
+​	![15ºimagen](/img/imag/15ºimagen.png)
 
 -
 
