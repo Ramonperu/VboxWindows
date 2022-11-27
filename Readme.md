@@ -80,17 +80,17 @@ En nuestro caso seleccionaremos +150
 
 -Se nos inciara la maquina y Windows empezara a configurarse:
 
-​	![vm](/img/vm.png)
+​	![15ºimagen](/img/15ºimagen.png)
 
-​	![vm2](/img/vm2.png)
+​	![16ºimagen](/img/16ºimagen.png)
 
-​	![vm3](/img/vm3.png)
+​	![17ºimagen](/img/17ºimagen.png)
 
-​	![vm4](/img/vm4.png)
+​	![18ºimagen](/img/18ºimagen.png)
 
 -Finalmente se nos abrira el sistema operativo y tendremos la maquina a nuestra disposicion:
 
-​	![vm5](/img/vm5.png)
+​	![19ºimagen](/img/19ºimagen.png)
 
 
 
