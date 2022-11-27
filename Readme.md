@@ -8,7 +8,7 @@ A continuación disponemos de una guía para la instalación de Windows 10 en un
 
 - **Procedimiento a seguir para la correcta instalación:**
 
-1º PASO(Obtencion de la imagen oficial):
+​								1º PASO(OBTENCION DE LA IMAGEN OFICIAL):
 
 ​	-Descargamos la *[herramienta](https://www.microsoft.com/es-es/software-download/windows10)* desde la **pagina oficial**
 
@@ -42,7 +42,7 @@ A continuación disponemos de una guía para la instalación de Windows 10 en un
 
 
 
-2º PASO(Creación de la maquina virtual):
+​										2º PASO(CREACION DE LA MAQUINA VIRTUAL):
 
 -Al abrir Virtual Box por primera vez encontraremos el menu principal vacío y clicaremos en Nueva:
 
