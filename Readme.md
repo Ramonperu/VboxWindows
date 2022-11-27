@@ -85,3 +85,14 @@ En nuestro caso seleccionaremos +150
 ​	![vm2](/img/vm2.png)
 
 ​	![vm3](/img/vm3.png)
+
+​	![vm4](/img/vm4.png)
+
+-Finalmente se nos abrira el sistema operativo y tendremos la maquina a nuestra disposicion:
+
+​	![vm5](/img/vm5.png)
+
+
+
+
+
