@@ -7,6 +7,7 @@ A continuación disponemos de una guía para la instalación de Windows 10 en un
 
 
 - **Procedimiento a seguir para la correcta instalación:**
+
 1º PASO(Obtencion de la imagen oficial):
 
 ​	-Descargamos la *[herramienta](https://www.microsoft.com/es-es/software-download/windows10)* desde la **pagina oficial**
