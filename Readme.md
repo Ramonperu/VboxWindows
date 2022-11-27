@@ -76,13 +76,11 @@ En nuestro caso seleccionaremos +150
 
 ​	![14ºimagen](/img/14ºimagen.png)
 
--Se nos inciara la maquina y Windows empezara a configurarse:
+
+
+-Windows comenzara la instalación:
 
 ​	![15ºimagen](/img/15ºimagen.png)
-
-​	![16ºimagen](/img/16ºimagen.png)
-
--Finalmente se nos abrira el sistema operativo y tendremos la maquina a nuestra disposicion:
 
 
 
