@@ -82,13 +82,10 @@ En nuestro caso seleccionaremos +150
 
 ​	<img src="/img/imag/15ºimagen.png" alt="15ºimagen"  />
 
-​	
-
-<img src="/img/imag/17ºimagen.PNG" alt="17ºimagen"  />
-
-​	
 
 -Finalmente se nos abrirá el sistema operativo:
+
+​	<img src="/img/imag/19ºimagen.png" alt="19ºimagen"  />
 
 
 
