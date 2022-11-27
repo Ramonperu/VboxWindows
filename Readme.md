@@ -84,7 +84,7 @@ En nuestro caso seleccionaremos +150
 
 ​	
 
-<img src="/img/imag/15ºimagen.png" alt="15ºimagen"  />
+<img src="/img/imag/17ºimagen.PNG" alt="17ºimagen"  />
 
 ​	
 
