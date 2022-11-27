@@ -80,9 +80,15 @@ En nuestro caso seleccionaremos +150
 
 -Windows comenzara la instalación:
 
-​	<img src="/img/imag/15ºimagen.png" alt="15ºimagen" style="zoom:67%;" />
+​	<img src="/img/imag/15ºimagen.png" alt="15ºimagen" style="zoom: 50%;" />
 
--
+​	<img src="/img/imag/17ºimagen.png" alt="17ºimagen" style="zoom:67%;" />
+
+​	<img src="/img/imag/18ºimagen.png" alt="18ºimagen" style="zoom: 50%;" />
+
+-Finalmente se nos abrirá el sistema operativo:
+
+​	<img src="/img/imag/19ºimagen.png" alt="19ºimagen" style="zoom: 50%;" />
 
 
 
